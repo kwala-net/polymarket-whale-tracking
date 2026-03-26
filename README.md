@@ -182,11 +182,3 @@ Actions:
 Execution:
   Mode: parallel
 ```
-
----
-
-## Next steps
-
-In the next guide we will extend this system to implement **copy trading**.
-
-Instead of only sending alerts, the workflow will automatically replicate the whale’s trade.
